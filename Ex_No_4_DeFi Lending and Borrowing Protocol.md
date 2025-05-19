@@ -95,3 +95,12 @@ Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
 
+![exp 4(i)](https://github.com/user-attachments/assets/4956e1c6-927e-4683-9639-8731f44af36f)
+
+![exp 4(ii)](https://github.com/user-attachments/assets/8d6cf4f3-d226-4308-9992-2287eed4aa47)
+
+![exp 4(iii)](https://github.com/user-attachments/assets/7845f072-e901-4061-8537-0b79e4cdb775)
+
+![exp 4(iv)](https://github.com/user-attachments/assets/d8b3a1f9-7e4a-40e4-aa52-4957e4fbe57b)
+
+Thus the program was implemented and executed successfully and the output was verified
